@@ -1,4 +1,4 @@
-# T9602 Sensor MQTT Publisher
+# Arduino Telaire T9602 Sensor readout
 
 This project reads Telaire T9602 temperature and humidity sensor data and prints it to serial.
 It's designed to run on Arduino/ESP8266/ESP32 modules.
